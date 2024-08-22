@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthyWordsReversal", "LengthyWordsReversal.csproj", "{588BAB55-9AFB-4B17-8CD2-F28E7003E594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{588BAB55-9AFB-4B17-8CD2-F28E7003E594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588BAB55-9AFB-4B17-8CD2-F28E7003E594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588BAB55-9AFB-4B17-8CD2-F28E7003E594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588BAB55-9AFB-4B17-8CD2-F28E7003E594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
